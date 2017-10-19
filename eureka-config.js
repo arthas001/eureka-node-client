@@ -5,16 +5,16 @@ module.exports = {
 	 * @type {Object}
 	 */
 	eureka: {
-		serviceUrls: {
-			default: [
-			'http://admin:admin@192.168.0.159:8761/eureka/apps/', 
-			'http://admin:admin@127.0.0.1:8761/eureka/apps/', 
-			'http://admin:admin@192.168.0.161:8761/eureka/apps/'
-			]
-		}
-		// "host": "admin:admin@192.168.0.159",
-		// "port": 8761,
-		// "servicePath": "/eureka/apps/"
+		// serviceUrls: {
+		// 	default: [
+		// 	'http://admin:admin@192.168.2.184:8761/eureka/apps/', 
+		// 	'http://admin:admin@127.0.0.1:8761/eureka/apps/', 
+		// 	'http://admin:admin@192.168.0.161:8761/eureka/apps/'
+		// 	]
+		// }
+		"host": "admin:admin@192.168.2.184",
+		"port": 8761,
+		"servicePath": "/eureka/apps/"
 	},
 
 	/**
