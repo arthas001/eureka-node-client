@@ -1,6 +1,6 @@
 {
   "name": "eureka-node-client",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "针对项目对 eureka-js-client 进行的二次开发",
   "main": "./lib/index.js",
   "scripts": {
