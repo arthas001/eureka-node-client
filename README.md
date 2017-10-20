@@ -2,7 +2,7 @@
 
 针对项目对 eureka-js-client 做的二次开发。
 
-![](./img/eureka-js-client.jpg)
+![](./images/eureka-node-client.png)
 
 ## Usage
 
